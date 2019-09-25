@@ -1,5 +1,4 @@
 @Library('dynatrace@master') _
-
 def tagMatchRules = [
   [
     meTypes: [
